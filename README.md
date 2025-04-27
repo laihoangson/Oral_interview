@@ -1,3 +1,3 @@
 # Oral_interview
 
-Hi, I am Shaun
+Hi, we are Bob and Shaun
